@@ -13,5 +13,6 @@ Main feature:
     2. 没有Lakka列表的情况下，根据ROM生成一个简易列表。
     3. Lakka列表与复古列表的相互转换。
 
-Download:
-https://github.com/laoshanxi/LakkaPlaylistTool/releases/download/1.0/LakkaPlaylistTool.zip
+
+[Download](https://github.com/laoshanxi/LakkaPlaylistTool/releases/download/1.0/LakkaPlaylistTool.zip)
+
